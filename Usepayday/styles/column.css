@@ -1,0 +1,51 @@
+.column-wrapper {
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6% 13%;
+    /* color: black; */
+}
+
+.send-image {
+    width: 28rem;
+}
+
+.send-image img{
+    width: 100%;
+}
+.spend-image {
+    width: 28rem;
+}
+
+.spend-image img{
+    width: 100%;
+}
+.bank-image {
+    width: 28rem;
+}
+
+.bank-image img{
+    width: 100%;
+}
+
+.send-wrapper h5, .spend-wrapper h5, .bank-wrapper h5{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.send-wrapper h6, .spend-wrapper h6, .bank-wrapper h6{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+.send-wrapper p, .spend-wrapper p, .bank-wrapper p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+

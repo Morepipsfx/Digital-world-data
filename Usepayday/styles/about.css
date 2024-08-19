@@ -1,0 +1,51 @@
+.header-wrapper{
+    background-color: black;
+    height: 70vh;
+}
+
+.header-text{
+    /* display: flex; */
+    /* justify-content: center; */
+    padding-top: 10%;
+    text-align: center;
+}
+
+.header-text h5{
+    font-size: 40px;
+    /* line-height: 100px; */
+}
+
+.header-text p{
+    font-size: 17px;
+    padding-top: 20px;
+}
+
+.header-rating{
+    display: flex;
+    justify-content: center;
+    padding-top: 8%;
+    justify-content: space-evenly;
+}
+
+.users h5, .new-users h5, .transactions-per-day h5,  .amount-raised h5{
+    font-size: 30px;
+}
+
+.section-1{
+    height: 50vh;
+}
+
+.section-wrapper{
+    margin-top: 50px;
+}
+
+.row1-wrapper img, .row2-wrapper img, .row3-wrapper img, .row4-wrapper img{
+    width: 20%;
+}
+
+.row1-wrapper, .row2-wrapper, .row3-wrapper, .row4-wrapper {
+    display: flex;
+    justify-content: center;
+    /* width: 100%; */
+    background-color: red;
+}

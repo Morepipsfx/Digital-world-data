@@ -1,0 +1,114 @@
+.blog-article{
+    /* background-color: green; */
+    position: relative;
+    top: 100px;
+}
+
+.article{
+    color: green;
+    text-align: center;
+    font-size: 15px;
+}
+
+.article-payday{
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.article-card{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: 125px;
+}
+
+.article-date{
+    color: black;
+    font-size: 13px;
+    text-align: center;
+    position: relative;
+    top: 135px;
+}
+
+.blog-image1{
+    height: 60vh;
+    width: 60vw;
+    /* background-color: red; */
+    position: relative;
+    top: 160px;
+    margin: 0 19%;
+    background-image: url(../images/image-13.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.blog-page{
+    width: 70%;
+}
+
+.image-1, .image-2, .image-3, .image-4, .image-5, .image-6, .image-7, .image-8, .image-9{
+    height: 40vh;
+    width: 50vw;
+    /* background-color: red; */
+    border-radius: 3px;
+    background-image: url(../images/image-12.png);
+    background-size: cover;
+}
+
+.image-2{
+    background-image: url(../images/image-10.png);
+    background-size: cover;
+}
+
+.image-3{
+    background-image: url(../images/image-9.png);
+    background-size: cover;
+}
+
+.image-4{
+    background-image: url(../images/image-5.png);
+    background-size: cover;
+}
+
+.column-1, .column-2, .column-3, .column-4, .column-5, .column-6, .column-7, .column-8, .column-9{
+    position: relative;
+    top: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 15%;
+}
+
+.column-2, .column-3, .column-4, .column-5, .column-6, .column-7, .column-8, .column-9{
+    margin-top: 50px;
+}
+
+.locked-account-1, .locked-account-2, .locked-account-3, .locked-account-4, .locked-account-5, .locked-account-6, .locked-account-7, .locked-account-8, .locked-account-9{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+.article-1, .article-2, .article-3, .article-4, .article-5, .article-6, .article-7, .article-8, .article-9{
+    color: green;
+    font-size: 15px;
+}
+.date-1, .date-2, .date-3, .date-4, .date-5, .date-6, .date-7, .date-8, .date-9{
+    color: black;
+    font-size: 13px;
+}
+
+.image-1-text, .image-2-text, .image-3-text, .image-4-text, .image-5-text, .image-6-text, .image-7-text, .image-8-text, .image-9-text{
+    padding-left: 30px;
+    line-height: 35px;
+}
+
+
+
